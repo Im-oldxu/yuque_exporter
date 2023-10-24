@@ -1,4 +1,6 @@
 #!/usr/bin/bash
+# Auth： oldxu.net
+
 
 # 定义语雀的Token（自行修改）
 Token="d5mYnSV0EReiwmNS0PkEqa"
