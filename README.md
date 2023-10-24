@@ -2,7 +2,7 @@
 
 # 循环备份语雀的所有知识库
 
-修改while_backup_yuque.sh文件中的Token即可。
+修改while_backup_yuque.sh文件中的Token，然后执行脚本即可。
 
 - 00-yuque_getid.py    	用来获取对应语雀中各个知识库的ID
 - 01_yuque_exporter.py 	用来备份每一个语雀的知识库文章，但需要传递对应的知识库ID
