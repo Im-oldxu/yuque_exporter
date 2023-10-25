@@ -1,4 +1,9 @@
 
+# 初始化项目
+
+- 1、建议使用RockyLinux系统
+- 2、安装项目依赖模块： `pip3 install huepy pyuque prettytable`
+
 
 # 循环备份语雀的所有知识库
 
